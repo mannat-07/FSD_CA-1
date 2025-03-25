@@ -1,0 +1,19 @@
+.team{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width : 200px;
+    height : 150px;
+    margin : 20px;
+    padding : 20px;
+    border: 20px;
+    text-align: center;
+    box-shadow: rgba(100, 100, 111, 0.4) 0px 5px 20px;
+    border-radius: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: rgba(166, 212, 227, 0.396);
+}
+
+body{
+    background-color:aliceblue;
+}
